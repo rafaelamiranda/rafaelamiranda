@@ -31,7 +31,7 @@
 <br>
 
 <div> 
-  <a href = "mailto: rafaela-gomes@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: rafaela-gomes@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/RafaelaMiranda/RafaelaMiranda/blob/output/github-contribution-grid-snake.svg)
