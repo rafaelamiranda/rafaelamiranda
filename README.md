@@ -29,5 +29,3 @@
 </div>
 <br>
 <br>
-
-![Snake animation](https://github.com/RafaelaMiranda/RafaelaMiranda/blob/output/github-contribution-grid-snake.svg)
