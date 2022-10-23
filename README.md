@@ -1,4 +1,4 @@
-## Oi, eu sou Rafa ☕
+## Oi, eu sou a Rafa ☕
 <br>
 
 ### Principais Competências
