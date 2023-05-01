@@ -1,7 +1,8 @@
 ## Oi, eu sou a Rafa ☕
 <br>
 
- <a href="https://www.linkedin.com/in/rafaela-miranda/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/rafaela-miranda/" target="_blank"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="mailto:rafaela-gomes@outlook.com" target="_blank"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
 <br>
 
