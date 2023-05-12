@@ -28,7 +28,6 @@ Geralmente me chamam de Rafa e atualmente estou participando do bootcamp <b>Igni
 <div>
   <a href="https://github.com/RafaelaMiranda">
   <img width="500vw" src="https://github-readme-stats.vercel.app/api?username=rafaelamiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="500vw" src="https://github-readme-streak-stats.herokuapp.com?user=rafaelamiranda&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
   </a>
 <div>
 
