@@ -1,7 +1,5 @@
 ### Oi, eu sou a Rafaela ☕
 
- <img align="right" alt="GIF" src="https://media.tenor.com/N-fJ0Azh_ykAAAAC/cat-computer.gif" width="498" height="382" />
- 
  ## Desenvolvedora Frontend
 
 Geralmente me chamam de Rafa e atualmente estou participando do bootcamp <b>Ignite</b> da [Rocketseat](https://www.rocketseat.com.br/). Estou sempre aberta a colaborar em projetos e ideias inovadoras. Saiba mais sobre mim e sinta-se à vontade para se conectar comigo aqui:
