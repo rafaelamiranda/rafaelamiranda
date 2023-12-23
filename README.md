@@ -5,7 +5,7 @@
 Geralmente me chamam de Rafa e atualmente estou participando do bootcamp <b>Ignite</b> da [Rocketseat](https://www.rocketseat.com.br/). Estou sempre aberta a colaborar em projetos e ideias inovadoras. Saiba mais sobre mim e sinta-se à vontade para se conectar comigo aqui:
 
  <a href="https://www.linkedin.com/in/rafaela-miranda/" target="_blank"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:rafaela-gomes@outlook.com" target="_blank"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+ <a href="mailto:ola@rafaelamiranda.com.br" target="_blank"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 
 <br><br>
 
