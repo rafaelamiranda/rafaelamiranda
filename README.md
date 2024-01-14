@@ -1,17 +1,15 @@
-Oi, eu sou Rafaela, mas pode me chamar de Rafa. Como desenvolvedora front-end, meu foco é criar experiências envolventes na web. Se estiver interessado em colaborar ou trocar ideias, ficarei feliz em me conectar. Você pode entrar em contato comigo através do e-mail e do meu Linkedin. Estou ansiosa para conversar mais sobre meu trabalho e projetos!
+![Header image](https://media.licdn.com/dms/image/D4D16AQEarUh6GIJMNg/profile-displaybackgroundimage-shrink_350_1400/0/1705091649992?e=1710979200&v=beta&t=USxJ4i_ZwXH8wGkgB9KtZO9nEx3PGYm4Qx8xSETa9_I)
+Sou um entusiasta de tecnologia que adora aprender coisas novas. Conecte-se comigo no LinkedIn.
 
- <a href="https://www.linkedin.com/in/rafaela-miranda/" target="_blank"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:ola@rafaelamiranda.com.br" target="_blank"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 
-<br><br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaela-miranda/)](https://www.linkedin.com/in/rafaela-miranda/)
+[![Instagram Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://rafaelamiranda.com.br/)](https://rafaelamiranda.com.br/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ola@rafaelamiranda.com.br)](mailto:ola@rafaelamiranda.com.br)
 
-### Principais Competências
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+## ⚡ Skills:
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+- Tailwind
