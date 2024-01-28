@@ -1,4 +1,4 @@
-![Header image](https://media.licdn.com/dms/image/D4D16AQEarUh6GIJMNg/profile-displaybackgroundimage-shrink_350_1400/0/1705091649992?e=1710979200&v=beta&t=USxJ4i_ZwXH8wGkgB9KtZO9nEx3PGYm4Qx8xSETa9_I)
+![Header image](https://media.licdn.com/dms/image/D4D16AQFhDzsh3n7omw/profile-displaybackgroundimage-shrink_350_1400/0/1706276453768?e=1712188800&v=beta&t=Gc03h76gRnEU2_Ae8OY_4vrpMl-IldzY0H6DOVvYgwg)
 
 Sou uma entusiasta de tecnologia que adora aprender coisas novas. Conecte-se comigo no LinkedIn.
 
